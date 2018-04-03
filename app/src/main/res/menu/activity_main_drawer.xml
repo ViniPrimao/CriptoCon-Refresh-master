@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cotacao"
+            android:icon="@drawable/ic_timeline_black_24dp"
+            android:title="@string/menu_price" />
+        <item
+            android:id="@+id/nav_carteira"
+            android:icon="@drawable/ic_account_balance_wallet_black_24dp"
+            android:title="@string/menu_wallets" />
+        <item
+            android:id="@+id/nav_conversor"
+            android:icon="@drawable/ic_equalizer_black_24dp"
+            android:title="@string/menu_conversion" />
+        <item
+            android:id="@+id/nav_sugestoes"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/menu_suggestions" />
+
+        <item
+            android:id="@+id/nav_compartilhar"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/menu_share" />
+        <item
+            android:id="@+id/nav_sobre"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/menu_about" />
+
+    </group>
+</menu>

@@ -1,0 +1,80 @@
+<resources>
+    <!--aqui a ref do nome do app-->
+    <string name="app_name">CriptoCon</string>
+    <!--aqui termina a ref-->
+
+    <!--aqui as refs do menu-->
+    <!--refs principais para abrir/fechar menu-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--aqui termina a ref abrir/fechar menu-->
+    <string name="sidebar_account_view">CriptoCon</string>
+    <string name="menu_price">Cotação</string>
+    <string name="menu_wallets">Carteiras</string>
+    <string name="menu_conversion">Conversor</string>
+    <string name="menu_suggestions">Sugestões</string>
+    <string name="menu_share">Compartilhar</string>
+    <string name="menu_about">Sobre</string>
+    <!--termina as refs menu -->
+
+    <!--aqui as refs da coin_line-->
+    <string name="coin_name">Moeda:</string>
+    <string name="coin_price">Cotação:</string>
+    <string name="coin_price_one_hour">Porcentagem em 1hr:</string>
+    <string name="coin_price_twenty_four_hours">Porcentagem em 24hrs:</string>
+    <!--aqui termina as refs da coin_line-->
+
+
+    <!--aqui as refs do segundo fragment-->
+    <string name="second_head_view">Funcionalidades em Construção.</string>
+    <string name="second_view">Em Breve Novidades!</string>
+    <!--aqui termina as refs do segundo fragment-->
+
+    <!-- aqui as refs do terceiro fragment-->
+    <string name="third_hint_cotacao">R$ 0.00</string>
+    <string name="third_hint_valor">R$ 0.00</string>
+    <string name="third_view_cotacao">Cotação atual da Criptomoeda</string>
+    <string name="third_view_valor">Valor que deseja investir em R$</string>
+    <string name="third_head_view">Digite:</string>
+    <string name="third_btn">Calcular</string>
+    <!--termina as refs terceiro fragment-->
+
+    <!--aqui as refs do quarto fragment-->
+    <string name="four_head_view">Exchanges Recomendadas:</string>
+    <string name="four_head_view_card_one">WallTime</string>
+    <string name="four_view_card_one">Plataforma para negociação de ativos digitais. \n Atualmente suporta a troca entre Reais (R$) e Bitcoin (BTC).</string>
+    <string name="four_btn_card_one">Visitar</string>
+    <string name="four_head_view_card_two">Binance</string>
+    <string name="four_view_card_two">Exchange Situada fora do Brasil, \n Possibilita a troca de Bitcoins por outras criptomoedas. \n Recursos para Trading e App Disponivel.</string>
+    <string name="four_btn_card_two">Visitar</string>
+    <string name="four_bottom_view">Aguarde Por Novidades!</string>
+    <!--aqui termina as refs do quarto fragment-->
+
+    <!--aqui as refs do quinto fragment-->
+    <string name="fifth_head_view">Compartilhe!</string>
+    <string name="fifth_btn">Compartilhar</string>
+    <!--aqui termina as refs do quinto fragment-->
+
+    <!--aqui as refs do sexto fragment-->
+    <string name="sixth_head_view">Algum Erro Ocorreu!</string>
+    <!--aqui termina as refs do sexto fragment-->
+
+
+    <!--aqui as refs do activity sobre-->
+    <string name="about_view_head">CriptoCon</string>
+    <!--nome da versão-->
+    <string name="about_view_version">Versão 1.5</string>
+    <!--aqui termina o nome da versão-->
+    <!--aqui o nome do orientador-->
+    <string name="about_advisor_middle">Orientador: Thiago Cury</string>
+    <!--aqui termina o nome do orientador-->
+    <string name="about_view_head_one">GitHub</string>
+    <string name="about_view_one">Conheça Nossos Repositórios no GitHub.</string>
+    <string name="about_btn_option_one">Visitar</string>
+    <string name="about_btn_option_two">Visitar</string>
+    <string name="about_view_head_two">Facebook</string>
+    <string name="about_view_two">Visite Nossa Página Para Maiores Informações!</string>
+    <string name="about_btn_option_tree">Visitar</string>
+    <!-- aqui termina as refs do activity sobre-->
+
+</resources>
